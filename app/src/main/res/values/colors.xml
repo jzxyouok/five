@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="red">#f00</color>
+    <color name="bg_btn_dialog">#90F0AB4E</color>
+    <color name="small_red">#F75F5F</color>
+    <color name="hui">#D4D0C8</color>
+    <color name="small_hui">#50D4D0C8</color>
+    <color name="white">#fff</color>
+    <color name="not_see">#00000000</color>
+    <color name="small_white">#50ffffff</color>
+</resources>

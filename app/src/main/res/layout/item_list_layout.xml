@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:gravity="center_vertical"
+        android:text="山西"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:id="@+id/tv_cook_item"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <ImageView
+        android:background="@color/hui"
+        android:layout_width="300dp"
+        android:layout_height="3dp" />
+
+</LinearLayout>

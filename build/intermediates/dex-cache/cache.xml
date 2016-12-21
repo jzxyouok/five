@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0dcee84e9bf7d1e156e39b25b20fd85e9026037c">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4bdff9cd50b5eba2f7abcfdfbe71be30e1303921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_e06ae478389c6c2a8b162d97e37d8d5235e72315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f7b468122cb83237876f80bfc9039a398ea13dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.zhy\autolayout\1.4.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="911eeaf6f474e74b7dbd9fa7f19aa56715a344ae">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.zhy-autolayout-1.4.3_089db23e02f369817299c4cc44c0ffab3e92f2b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_f3f98400a231c91a34d4090a84c654053acc06c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_83718a6aab29c44b4129188bfe50cece18390602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_271bd55e505a911e08eae58a9e182ce410c4e629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_4177707f1a64b7d63e89e1f22b8e6c9ec98519c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_c7f41f87b86d78f9215d0484c315d1c7e7a60561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ac1054c0712c80db6d3c092df299bce76b3e676d">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\instant-run_7dd49de756fcda46c2cf1af7420c09387822ad97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_e97c4d684058659f4c78fd063d89ce0d8b400297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_2428dbd5eabf65ae69bc01abd6e4b72d08e545aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_281db875d059f9e357b0b0486a4be788dc5f4c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software1\android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_650266e8fbd25a37c614aeb23231e8c83989832f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2576323f74e1bded597156846feb140448a16640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_610c6ad94535de1df4eacddbab908c65e0977195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a6efb009965ea170596eb8e92cfad03045883718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e08aec1703eecb1d3261b2ceb905031e59b5fe78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_e326ede915f64d4432493a2bf1e2eb15c9c3291e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_a7cb991dc0b63b20daac1df0cb05047502a5e845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_becf6e9e46131837ae3f657d5ab91256ef5eb920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.17\be249d63279f79d827a6bb0328b7d7938730c694\fastjson-1.2.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be249d63279f79d827a6bb0328b7d7938730c694">
+        <dex dex="F:\AndroidDemo\FiveAKitchen\app\build\intermediates\pre-dexed\debug\fastjson-1.2.17_00d7c8f29620068a19b9dbb5104044de57b732a4.jar" />
+    </item>
+
+</items>

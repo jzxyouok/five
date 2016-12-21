@@ -1,0 +1,58 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nzwlkj.fiveakitchen.fragment.BasicDialogFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/btn_home"
+                android:textSize="25sp"
+                android:background="@color/bg_btn_dialog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_home"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="20px" />
+            <Button
+                android:id="@+id/btn_cook"
+                android:textSize="25sp"
+                android:background="@color/bg_btn_dialog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_cook"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="20px" />
+            <Button
+                android:id="@+id/btn_veg"
+                android:textSize="25sp"
+                android:background="@color/bg_btn_dialog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_veg"
+                />
+        </LinearLayout>
+
+        <ImageButton
+            android:layout_marginTop="-2dp"
+            android:id="@+id/imgButShangla"
+            android:background="@mipmap/shangla"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</FrameLayout>
